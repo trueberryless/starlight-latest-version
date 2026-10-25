@@ -5,11 +5,11 @@
   "description": "Documentation for the Starlight Latest Version plugin.",
   "homepage": "https://starlight-latest-version.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-latest-version/issues"
+    "url": "https://github.com/trueberryless/starlight-latest-version/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-latest-version.git",
+    "url": "https://github.com/trueberryless/starlight-latest-version.git",
     "directory": "docs"
   },
   "license": "MIT",

@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "description": "Starlight plugin to show the latest released version of your package in your documentation.",
-  "homepage": "https://github.com/trueberryless-org/starlight-latest-version",
+  "homepage": "https://github.com/trueberryless/starlight-latest-version",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-latest-version/issues"
+    "url": "https://github.com/trueberryless/starlight-latest-version/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-latest-version.git"
+    "url": "https://github.com/trueberryless/starlight-latest-version.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
