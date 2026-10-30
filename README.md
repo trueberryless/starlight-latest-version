@@ -10,7 +10,7 @@ Read the [Starlight Latest Version docs](https://starlight-latest-version.netlif
 
 ## Package
 
-If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-latest-version/`](https://github.com/trueberryless-org/starlight-latest-version/tree/main/packages/starlight-latest-version) directory.
+If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-latest-version/`](https://github.com/trueberryless/starlight-latest-version/tree/main/packages/starlight-latest-version) directory.
 
 ## Project structure
 
@@ -20,4 +20,4 @@ This project uses pnpm workspaces to develop a single Starlight plugin from the 
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-latest-version/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-latest-version/blob/main/LICENSE) for more information.
