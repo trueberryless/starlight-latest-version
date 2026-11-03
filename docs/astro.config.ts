@@ -38,7 +38,7 @@ export default defineConfig({
       ],
       editLink: {
         baseUrl:
-          "https://github.com/trueberryless-org/starlight-latest-version/edit/main/docs/",
+          "https://github.com/trueberryless/starlight-latest-version/edit/main/docs/",
       },
       plugins: [
         starlightLinksValidator(),
@@ -81,7 +81,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/trueberryless-org/starlight-latest-version",
+          href: "https://github.com/trueberryless/starlight-latest-version",
         },
       ],
     }),

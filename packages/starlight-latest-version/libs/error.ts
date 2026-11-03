@@ -2,7 +2,7 @@ import { AstroError } from "astro/errors";
 
 export function throwPluginError(message: string, hint?: string): never {
   const hintHeader = "See the error report above for more informations.";
-  const hintFooter = `\n\nIf you believe this is a bug, please file an issue at https://github.com/trueberryless-org/starlight-latest-version/issues/new`;
+  const hintFooter = `\n\nIf you believe this is a bug, please file an issue at https://github.com/trueberryless/starlight-latest-version/issues/new`;
 
   throw new AstroError(
     message,

@@ -42,7 +42,7 @@ This is necessary to fetch the latest version of your package.
 
 <div id="repo">
 :::note
-Please note that the `repo` configuration has been <span style="color: var(--sl-color-red)">removed</span> in favour of the new `source` configuration object. To upgrade the plugin, please follow the [upgrade guide](https://github.com/trueberryless-org/starlight-latest-version/releases/tag/starlight-latest-version%400.3.0).
+Please note that the `repo` configuration has been <span style="color: var(--sl-color-red)">removed</span> in favour of the new `source` configuration object. To upgrade the plugin, please follow the [upgrade guide](https://github.com/trueberryless/starlight-latest-version/releases/tag/starlight-latest-version%400.3.0).
 :::
 </div>
 
@@ -88,13 +88,13 @@ Depending on the [source `type`](#type), the slug must follow the syntax:
   {[34mowner[0m}/{[36mrepo[0m}
   ```
 
-  Here is an example for [this exact repo](https://github.com/trueberryless-org/starlight-latest-version):
+  Here is an example for [this exact repo](https://github.com/trueberryless/starlight-latest-version):
 
   ```ts
   starlightLatestVersion({
     source: {
       type: "github",
-      slug: "trueberryless-org/starlight-latest-version",
+      slug: "trueberryless/starlight-latest-version",
     },
   }),
   ```
