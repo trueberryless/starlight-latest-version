@@ -1,5 +1,11 @@
 # starlight-latest-version
 
+## 0.9.1
+
+### Patch Changes
+
+- [#164](https://github.com/trueberryless/starlight-latest-version/pull/164) [`aded98e`](https://github.com/trueberryless/starlight-latest-version/commit/aded98e0d1b96a94952ce99e42fc529002a35dac) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.9.0
 
 ### Minor Changes
