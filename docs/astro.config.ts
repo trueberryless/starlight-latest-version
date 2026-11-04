@@ -1,6 +1,6 @@
 import netlify from "@astrojs/netlify";
 import starlight from "@astrojs/starlight";
-import starlightPluginsDocsComponents from "@trueberryless-org/starlight-plugins-docs-components";
+import starlightPluginsDocsComponents from "@trueberryless/starlight-plugins-docs-components";
 import { defineConfig } from "astro/config";
 import starlightLatestVersion from "starlight-latest-version";
 import starlightLinksValidator from "starlight-links-validator";
