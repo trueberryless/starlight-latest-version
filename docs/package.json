@@ -23,7 +23,7 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/netlify": "^8.2.6",
+    "@astrojs/netlify": "^8.2.10",
     "@astrojs/starlight": "^0.41.11",
     "@hideoo/starlight-plugins-docs-components": "^0.5.0",
     "@trueberryless/starlight-plugins-docs-components": "^0.7.2",
